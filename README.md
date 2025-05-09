@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating some AI chatbot**
 
-- 🌱 I’m currently learning **AI agents, MCP microservices, ...**
+- 🌱 I’m currently learning **Systems Design, AI integration, ...**
 
 - 👯 I’m looking to collaborate on **anything**
 
