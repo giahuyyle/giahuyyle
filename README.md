@@ -15,9 +15,7 @@
 
 - ⚡ Fun fact **I am a Chelsea FC fan**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+***
 
 
 ### 💻 Languages
