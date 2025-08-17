@@ -51,8 +51,8 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giahuyyle&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600" alt="Huy's Readme Stats"><br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=giahuyyle&theme=solarized-light&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giahuyyle&theme=solarized-ligh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://nirzak-streak-stats.vercel.app/?user=giahuyyle&theme=light&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giahuyyle&theme=ligh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ***
