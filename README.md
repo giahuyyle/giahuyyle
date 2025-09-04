@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Huy Le</h1>
 <h3 align="center">A daily Leetcode enjoyer (?) based at University of Alberta</h3>
 
-- 🔭 I’m currently working on **creating some AI chatbot**
+- 🔭 I’m currently working on **creating awesome full-stack applications**
 
-- 🌱 I’m currently learning **AI agents, MCP microservices, ...**
+- 🌱 I’m currently learning **Java (again)**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **CS**
-
-- 💬 Ask me about **Sports**
+- 🤝 I’m looking for help with **locking in that internship**
 
 - 📫 How to reach me **huyyyylegia@gmail.com**
 
-- ⚡ Fun fact **I am a Chelsea FC fan**
+- ⚡ Fun fact **I am a die-hard Chelsea FC fan**
 
 ***
 
