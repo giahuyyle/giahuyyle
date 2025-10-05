@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **locking in that internship**
 
-- 📫 How to reach me **huyyyylegia@gmail.com**
+- 📫 Reach out to me @ **huyyyylegia@gmail.com**
 
 - ⚡ Fun fact **I am a die-hard Chelsea FC fan**
 
