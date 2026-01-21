@@ -79,7 +79,6 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giahuyyle&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600" alt="Huy's Readme Stats1"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=giahuyyle&theme=light&hide_border=false" width="600" alt="Huy's Readme Stats2"><br/>
 </p>
 
 ***
