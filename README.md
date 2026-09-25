@@ -24,7 +24,6 @@ Outside of coding, I'm a big Chelsea fan. Up the Chels. 💙⚽
 - REST APIs with FastAPI and Spring Boot
 - PostgreSQL, MySQL, Redis, and messaging systems
 - AI agents, retrieval systems, and LLM integrations
-- Data structures & algorithms for SWE interviews
 
 ---
 
